@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="GUI:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="983fcd99-6e1e-4bed-a1f3-01e600b466c0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GUI/src/components/main/MagitController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1683">
+              <caret line="99" selection-start-line="99" selection-end-line="99" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Singleton" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>selectedNameProperty</find>
+      <find>isFileSelected</find>
+      <find>inputstream</find>
+      <find>input</find>
+      <find>srting</find>
+      <find>getXAnchor</find>
+      <find>commit</find>
+      <find>branchOrCommitContentTextArea</find>
+      <find>branchOrCommitContentProperty</find>
+      <find>sha1OrdeltaTextArea</find>
+      <find>sha1OrdeltaProperty</find>
+      <find>showP</find>
+      <find>iscommitselected</find>
+      <find>tree</find>
+      <find>graph</find>
+      <find>CommitNode</find>
+      <find>buildGraph</find>
+      <find>isRepositoryloaded</find>
+      <find>clone</find>
+      <find>clickedCommit</find>
+      <find>showWCButton</find>
+      <find>load</find>
+      <find>create</find>
+      <find>push</find>
+      <find>clo</find>
+      <find>getBranchesName</find>
+      <find>Merge</find>
+      <find>merge</find>
+      <find>getBranchesNameWithoutHead</find>
+      <find>isCommitSelected</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\שירה\IdeaProjects\Magit\GUI\src</dir>
+      <dir>C:\Users\שירה\IdeaProjects\Magit\GUI\src\components\main</dir>
+      <dir>C:\Users\שירה\IdeaProjects\Magit\Engine\src\engine</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Engine/src/engine/Sha1able.java" />
+        <option value="$PROJECT_DIR$/Engine/src/engine/WC.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa16700.36937/Repository.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa16700.47045/Commit.java" />
+        <option value="$PROJECT_DIR$/Engine/src/engine/Settings.java" />
+        <option value="$PROJECT_DIR$/GUI/src/gui.java" />
+        <option value="$PROJECT_DIR$/GUI/src/MagitController.java" />
+        <option value="$PROJECT_DIR$/GUI/src/main.java" />
+        <option value="$PROJECT_DIR$/GUI/src/components/MagitController.java" />
+        <option value="$PROJECT_DIR$/GUI/src/components/main/Main/MagitController.java" />
+        <option value="$PROJECT_DIR$/GUI/src/componen/Main/UIAdapter.java" />
+        <option value="$PROJECT_DIR$/GUI/src/components/Main/UIAdapter.java" />
+        <option value="$PROJECT_DIR$/GUI/src/components/dynamicShowStatus/blob/blob.java" />
+        <option value="$PROJECT_DIR$/GUI/src/components/dynamicShowStatus/blob/GridPanePane.java" />
+        <option value="$PROJECT_DIR$/GUI/src/components/dynamicShowStatus/blob/blobController.java" />
+        <option value="$PROJECT_DIR$/GUI/src/components/dynamicShowStatus/blob/BlobController.java" />
+        <option value="$PROJECT_DIR$/UI/src/Menu.java" />
+        <option value="$PROJECT_DIR$/GUI/src/Magit.fxml" />
+        <option value="$PROJECT_DIR$/GUI/src/components/main/UIAdapter.java" />
+        <option value="$PROJECT_DIR$/GUI/src/visual/SampleMain.java" />
+        <option value="$PROJECT_DIR$/GUI/src/visual/node/commitNode.fxml" />
+        <option value="$PROJECT_DIR$/GUI/src/components/merge/mergeController.java" />
+        <option value="$PROJECT_DIR$/GUI/src/components/merge/merge.fxml" />
+        <option value="$PROJECT_DIR$/Engine/src/engine/Blob.java" />
+        <option value="$PROJECT_DIR$/Engine/src/engine/Folder.java" />
+        <option value="$PROJECT_DIR$/Engine/src/engine/MagitObject.java" />
+        <option value="$PROJECT_DIR$/GUI/src/components/merge/MergeController.java" />
+        <option value="$PROJECT_DIR$/Engine/src/engine/Xml.java" />
+        <option value="$PROJECT_DIR$/Engine/src/engine/LoadFromXMLTask.java" />
+        <option value="$PROJECT_DIR$/GUI/src/Magit.css" />
+        <option value="$PROJECT_DIR$/GUI/src/components/main/MagitController.css" />
+        <option value="$PROJECT_DIR$/GUI/src/components/main/MagitControllerBlue.css" />
+        <option value="$PROJECT_DIR$/GUI/src/components/main/MagitControllerPink.css" />
+        <option value="$PROJECT_DIR$/GUI/src/visual/node/commitNode.css" />
+        <option value="$PROJECT_DIR$/GUI/src/Main.java" />
+        <option value="$PROJECT_DIR$/Engine/src/engine/Branch.java" />
+        <option value="$PROJECT_DIR$/Engine/src/engine/Utils.java" />
+        <option value="$PROJECT_DIR$/Engine/src/engine/Commit.java" />
+        <option value="$PROJECT_DIR$/Engine/src/engine/Magit.java" />
+        <option value="$PROJECT_DIR$/Engine/src/engine/Repository.java" />
+        <option value="$PROJECT_DIR$/GUI/src/visual/node/CommitNode.java" />
+        <option value="$PROJECT_DIR$/GUI/src/visual/layout/CommitTreeLayout.java" />
+        <option value="$PROJECT_DIR$/GUI/src/visual/node/CommitNodeController.java" />
+        <option value="$PROJECT_DIR$/GUI/src/components/main/MagitController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="126" />
+    <option name="width" value="1440" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Magit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Magit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Magit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Magit" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Magit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Magit" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AncestorFinder.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2045977" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\שירה\IdeaProjects\Magit\GUI\src" />
+      <recent name="C:\Users\שירה\IdeaProjects\Magit\GUI\src\components\main" />
+      <recent name="C:\Users\שירה\IdeaProjects\Magit\GUI\src\components\dynamicShowStatus\blob" />
+      <recent name="C:\Users\שירה\IdeaProjects\Magit\GUI\src\components\dynamicShowStatus" />
+      <recent name="C:\Users\שירה\IdeaProjects\Magit\GUI" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\שירה\IdeaProjects\Magit\GUI\src\components\main" />
+      <recent name="C:\Users\שירה\IdeaProjects\Magit\GUI\src" />
+      <recent name="C:\Users\שירה\IdeaProjects\Magit\GUI\src\components" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="components.dynamicShowStatus.blob" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="GUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Menu" />
+      <module name="UI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui" />
+      <module name="GUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="GUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Menu" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.gui" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="983fcd99-6e1e-4bed-a1f3-01e600b466c0" name="Default Changelist" comment="" />
+      <created>1564841131250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564841131250</updated>
+      <workItem from="1564841134873" duration="7121000" />
+      <workItem from="1564906130247" duration="16471000" />
+      <workItem from="1564932806400" duration="500000" />
+      <workItem from="1565011599617" duration="13758000" />
+      <workItem from="1565110591156" duration="7475000" />
+      <workItem from="1565198416362" duration="4512000" />
+      <workItem from="1565356472951" duration="10918000" />
+      <workItem from="1565421594378" duration="2585000" />
+      <workItem from="1565440987154" duration="14094000" />
+      <workItem from="1565507863304" duration="12865000" />
+      <workItem from="1565591016256" duration="4287000" />
+      <workItem from="1565611732854" duration="1771000" />
+      <workItem from="1565622332941" duration="64000" />
+      <workItem from="1565622742379" duration="2314000" />
+      <workItem from="1565625255259" duration="1396000" />
+      <workItem from="1565628433833" duration="13580000" />
+      <workItem from="1565676872592" duration="7528000" />
+      <workItem from="1565710260604" duration="12492000" />
+      <workItem from="1565764313203" duration="6867000" />
+      <workItem from="1565779916695" duration="2369000" />
+      <workItem from="1566026748331" duration="3976000" />
+      <workItem from="1566041049003" duration="14211000" />
+      <workItem from="1566110590295" duration="16848000" />
+      <workItem from="1566204565987" duration="5362000" />
+      <workItem from="1566232469270" duration="2289000" />
+      <workItem from="1566279298018" duration="8020000" />
+      <workItem from="1566368804905" duration="3092000" />
+      <workItem from="1566738967671" duration="5336000" />
+      <workItem from="1566809092092" duration="5816000" />
+      <workItem from="1566885934385" duration="13112000" />
+      <workItem from="1566904733846" duration="15608000" />
+      <workItem from="1566926516019" duration="1273000" />
+      <workItem from="1566977025403" duration="11428000" />
+      <workItem from="1567018965245" duration="3090000" />
+      <workItem from="1567069388300" duration="5178000" />
+      <workItem from="1567177429391" duration="5497000" />
+      <workItem from="1567236129912" duration="17498000" />
+      <workItem from="1567258974786" duration="13372000" />
+      <workItem from="1567320742116" duration="18629000" />
+      <workItem from="1567355336229" duration="172000" />
+      <workItem from="1567440332016" duration="5669000" />
+      <workItem from="1567521803394" duration="11709000" />
+      <workItem from="1567689676035" duration="6873000" />
+      <workItem from="1567760009754" duration="7575000" />
+      <workItem from="1567841559864" duration="15251000" />
+      <workItem from="1567929519425" duration="13981000" />
+      <workItem from="1567949721982" duration="138000" />
+      <workItem from="1568016952599" duration="836000" />
+      <workItem from="1568099195414" duration="6480000" />
+      <workItem from="1568123935130" duration="3545000" />
+      <workItem from="1568138826901" duration="7293000" />
+      <workItem from="1568182559602" duration="259000" />
+      <workItem from="1568382665703" duration="151000" />
+      <workItem from="1568383035184" duration="8318000" />
+      <workItem from="1568397738505" duration="1674000" />
+      <workItem from="1568439473091" duration="12313000" />
+      <workItem from="1568539600033" duration="348000" />
+      <workItem from="1568540060244" duration="13595000" />
+      <workItem from="1568645396159" duration="8321000" />
+      <workItem from="1568703620580" duration="11651000" />
+      <workItem from="1568716867599" duration="7644000" />
+      <workItem from="1568731091596" duration="2957000" />
+      <workItem from="1568798392222" duration="1330000" />
+      <workItem from="1568817027744" duration="1820000" />
+      <workItem from="1568819348179" duration="7000" />
+      <workItem from="1568877143331" duration="229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="473420000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25101215" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4979757" visible="true" weight="0.29129663" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49716598" weight="0.40142095" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298731" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502834" side_tool="true" weight="0.47602132" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3268206" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32149202" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32955465" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24939272" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32955465" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22267206" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4979757" visible="true" weight="0.29129663" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49716598" weight="0.40142095" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298731" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502834" side_tool="true" weight="0.47602132" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3268206" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32149202" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32955465" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24939272" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32955465" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="headName" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Magit$Main.ic" NAME="Main Coverage Results" MODIFIED="1568714356732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Magit2$Menu.ic" NAME="Menu Coverage Results" MODIFIED="1564919636541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/../AncestorFinder.jar!/puk/team/course/magit/ancestor/finder/CommitRepresentative.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/apache-codec/commons-codec/1.2/commons-codec-1.2.jar!/org/apache/commons/codec/digest/DigestUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#1208#1209#0" expanded="true" />
+            <element signature="e#1258#1259#0" expanded="true" />
+            <element signature="e#1303#1304#0" expanded="true" />
+            <element signature="e#1346#1347#0" expanded="true" />
+            <element signature="e#1560#1561#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Engine/Engine.iml" />
+    <entry file="file://$PROJECT_DIR$/Engine/src/generated/MagitSingleBranch.java" />
+    <entry file="file://$PROJECT_DIR$/GUI/src/visual/node/commitNode.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/visual/node/commitNode.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7744.13946/Branch.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7744.13756/Magit.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7744.13232/Commit.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7744.31970/Main.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7744.38253/MagitController.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7744.28108/CommitNodeController.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7744.27930/CommitNode.java" />
+    <entry file="file://$PROJECT_DIR$/GUI/src/Magit.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-629">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa320.1896/MagitController.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/javafx-src.zip!/javafx/concurrent/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="1003" selection-start-line="1003" selection-end-line="1003" />
+          <folding>
+            <element signature="e#28133#28134#0" expanded="true" />
+            <element signature="e#28176#28177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Engine/src/generated/MagitRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="e#3033#3034#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/javafx-src.zip!/javafx/beans/property/ObjectPropertyBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/javafx-src.zip!/javafx/stage/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/components/main/MagitControllerPink.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa11668.36650/MagitController.java" />
+    <entry file="file://$PROJECT_DIR$/GUI/src/components/main/MagitControllerBlue.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Engine/src/engine/Xml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="295" column="14" selection-start-line="295" selection-start-column="14" selection-end-line="295" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.4/commons-io-2.4.jar!/org/apache/commons/io/FileUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="554" column="23" selection-start-line="554" selection-start-column="23" selection-end-line="554" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/src/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="295" column="11" selection-start-line="295" selection-start-column="11" selection-end-line="295" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Engine/src/engine/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1887">
+          <caret line="114" column="5" selection-start-line="114" selection-start-column="5" selection-end-line="114" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13292.15128/TimelineAnimationExample.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13292.15198/TransitionAnimationExample.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa400.25147/TimelineAnimationExample.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa400.25069/TransitionAnimationExample.java" />
+    <entry file="file://$PROJECT_DIR$/Engine/src/engine/Branch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="102" column="35" selection-start-line="102" selection-start-column="35" selection-end-line="102" selection-end-column="35" />
+          <folding>
+            <element signature="method#Branch#0;class#Branch#0" />
+            <element signature="method#Branch#1;class#Branch#0" />
+            <element signature="method#getHistoryOfBranch#0;class#Branch#0" />
+            <element signature="method#toString#0;class#Branch#0" />
+            <element signature="e#2865#2866#0" expanded="true" />
+            <element signature="e#2892#2893#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Engine/src/engine/Magit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#684#801#0" />
+            <element signature="e#806#998#0" />
+            <element signature="e#1496#1632#0" />
+            <element signature="e#1638#1931#0" />
+            <element signature="e#1937#2107#0" />
+            <element signature="e#2113#2233#0" />
+            <element signature="e#2239#2583#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/javafx-src.zip!/javafx/beans/property/BooleanPropertyBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="145" selection-start-line="145" selection-end-line="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/javafx-src.zip!/javafx/scene/control/MenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="462" selection-start-line="462" selection-end-line="462" />
+          <folding>
+            <element signature="e#15741#15742#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/javafx-src.zip!/javafx/scene/control/Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/javafx-src.zip!/javafx/scene/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8411" selection-start-line="8411" selection-end-line="8411" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/javafx-src.zip!/javafx/scene/Scene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="2498" column="24" lean-forward="true" selection-start-line="2497" selection-start-column="17" selection-end-line="2498" selection-end-column="24" />
+          <folding>
+            <element signature="e#66572#66573#0" expanded="true" />
+            <element signature="e#66618#66619#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/javafx-src.zip!/javafx/event/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="198" selection-start-line="198" selection-end-line="198" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/components/merge/merge.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1122" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="1772" selection-start-line="1772" selection-end-line="1772" />
+          <folding>
+            <element signature="e#66921#66922#0" expanded="true" />
+            <element signature="e#66966#66967#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Engine/src/engine/Commit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="122" column="168" selection-start-line="122" selection-start-column="168" selection-end-line="122" selection-end-column="168" />
+          <folding>
+            <element signature="method#Commit#0;class#Commit#0" />
+            <element signature="method#Commit#1;class#Commit#0" />
+            <element signature="method#Commit#2;class#Commit#0" />
+            <element signature="method#Commit#3;class#Commit#0" />
+            <element signature="method#ShowCurrentBranch#0;class#Commit#0" />
+            <element signature="method#toStringSpecified#0;class#Commit#0" />
+            <element signature="method#buildTree#0;class#Commit#0" />
+            <element signature="method#buildGraph#0;class#Commit#0" />
+            <element signature="e#4737#5542#1" />
+            <element signature="e#5571#6386#1" />
+            <element signature="method#prevSha1#0;class#Commit#0" />
+            <element signature="method#getFirstPrecedingSha1#0;class#Commit#0" />
+            <element signature="method#getSecondPrecedingSha1#0;class#Commit#0" />
+            <element signature="method#getDate#0;class#Commit#0" />
+            <element signature="method#compareTo#0;class#Commit#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Engine/src/engine/Repository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-277">
+          <caret line="334" column="130" selection-start-line="334" selection-start-column="130" selection-end-line="334" selection-end-column="130" />
+          <folding>
+            <element signature="e#6867#7646#0" />
+            <element signature="e#8365#8826#0" />
+            <element signature="e#8832#9119#0" />
+            <element signature="e#9125#9858#0" />
+            <element signature="e#9864#11276#0" />
+            <element signature="e#11282#12603#0" />
+            <element signature="e#12609#13946#0" />
+            <element signature="e#13952#14250#0" />
+            <element signature="e#14256#14801#0" />
+            <element signature="e#14807#15185#0" />
+            <element signature="e#15191#15477#0" />
+            <element signature="e#15483#16044#0" />
+            <element signature="e#16050#16432#0" />
+            <element signature="e#16438#16834#0" />
+            <element signature="e#16840#17072#0" />
+            <element signature="e#17078#17267#0" />
+            <element signature="e#17273#17471#0" />
+            <element signature="e#17477#18049#0" />
+            <element signature="e#18141#18484#0" />
+            <element signature="e#18490#19875#0" />
+            <element signature="e#19881#20024#0" />
+            <element signature="e#20030#20279#0" />
+            <element signature="e#20285#22175#0" />
+            <element signature="e#22183#23096#0" />
+            <element signature="e#23102#24051#0" />
+            <element signature="e#24057#24592#0" />
+            <element signature="e#24598#24934#0" />
+            <element signature="e#24939#25371#0" />
+            <element signature="e#25377#25721#0" />
+            <element signature="e#25728#26033#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/components/main/UIAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/Engine/src/engine/LoadFromXMLTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/visual/node/CommitNodeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#commitNodeOnClick#0;class#CommitNodeController#0" />
+            <element signature="method#setCommitTimeStamp#0;class#CommitNodeController#0" />
+            <element signature="method#setCommitSha1#0;class#CommitNodeController#0" />
+            <element signature="method#setCommitBranch#0;class#CommitNodeController#0" />
+            <element signature="method#setCommitter#0;class#CommitNodeController#0" />
+            <element signature="method#setCommitMessage#0;class#CommitNodeController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/visual/node/CommitNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <element signature="method#CommitNode#0;class#CommitNode#0" />
+            <element signature="method#getGraphic#0;class#CommitNode#0" />
+            <element signature="method#getXAnchor#0;class#CommitNode#0" />
+            <element signature="method#equals#0;class#CommitNode#0" />
+            <element signature="method#compareTo#0;class#CommitNode#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/visual/layout/CommitTreeLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#CommitTreeLayout#0;class#CommitTreeLayout#0" />
+            <element signature="method#execute#0;class#CommitTreeLayout#0" />
+            <element signature="method#organize#0;class#CommitTreeLayout#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/components/merge/MergeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/components/main/MagitController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>GUI:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2045977" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GUI</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2045977" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>apache-codec:commons-codec:1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
